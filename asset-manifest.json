@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bday-mint/static/css/main.27d5ecdb.chunk.css",
+    "main.js": "/bday-mint/static/js/main.a5bb3bb9.chunk.js",
+    "main.js.map": "/bday-mint/static/js/main.a5bb3bb9.chunk.js.map",
+    "runtime-main.js": "/bday-mint/static/js/runtime-main.7229d70c.js",
+    "runtime-main.js.map": "/bday-mint/static/js/runtime-main.7229d70c.js.map",
+    "static/js/2.6f989f81.chunk.js": "/bday-mint/static/js/2.6f989f81.chunk.js",
+    "static/js/2.6f989f81.chunk.js.map": "/bday-mint/static/js/2.6f989f81.chunk.js.map",
+    "static/js/3.c75af4b9.chunk.js": "/bday-mint/static/js/3.c75af4b9.chunk.js",
+    "static/js/3.c75af4b9.chunk.js.map": "/bday-mint/static/js/3.c75af4b9.chunk.js.map",
+    "index.html": "/bday-mint/index.html",
+    "static/css/main.27d5ecdb.chunk.css.map": "/bday-mint/static/css/main.27d5ecdb.chunk.css.map",
+    "static/js/2.6f989f81.chunk.js.LICENSE.txt": "/bday-mint/static/js/2.6f989f81.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7229d70c.js",
+    "static/js/2.6f989f81.chunk.js",
+    "static/css/main.27d5ecdb.chunk.css",
+    "static/js/main.a5bb3bb9.chunk.js"
+  ]
+}
